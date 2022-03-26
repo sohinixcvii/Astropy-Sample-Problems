@@ -1,0 +1,9 @@
+Use astropy:  
+I. to input the coordinates of the object M33.  
+II. to provide the location of Bear Mountain on Earth at 11pm EDT on 2012 July
+12.  
+Use astropy.coordinates to find the Alt, Az coordinates of M33 at as observed from Bear Mountain at 11pm on 2012 July 12. Find the alt,az coordinates of M33 at
+100 times evenly spaced between 10pm and 7am EDT.  
+
+Use get_sun to find the location of the Sun at 1000 evenly spaced times between
+noon on July 12 and noon on July 13.  
