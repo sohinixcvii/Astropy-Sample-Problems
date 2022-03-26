@@ -1,0 +1,5 @@
+1) Open the fits image of 3C273
+2) Show the image in a color plot and overlay it with
+contours
+3) Find out from the image header, the size of the image and
+the coordinate of the center pixel
