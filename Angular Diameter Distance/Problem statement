@@ -1,0 +1,9 @@
+Create an array of redshifts between 0
+and 6 with the size of the array = 100.
+Calculate the angular diameter distance
+assuming the FlatLambdaCDM cosmology
+and save the corresponding values in a
+fits table.
+Make a plot with both redshift and
+universe age axes using
+astropy.cosmology as shown here.
